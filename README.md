@@ -6,8 +6,7 @@ Una aplicación para la creación, actualización, borrado y consulta de usuario
 - [Descripción](#descripción)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Características](#características)
-- [Licencia](#licencia)
+- [Autor](#autor)
 
 ## Descripción
 
@@ -61,7 +60,7 @@ npm run dev
 npm run dev
 ```
 
-7. Uso
+## Uso
 
 - Una vez iniciados los servicios, abrir el navegador y navegar a 'http://localhost:5173' allí se encontrara con la pagina principal en donde inmediatamente se mostrara la lista de usuarios ya ingresados en la base de datos.
 - Se puede realizar busquedas de usuarios por medio del input con el placeholder "search users by name..."
